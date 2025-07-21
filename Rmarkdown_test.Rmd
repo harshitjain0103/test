@@ -28,3 +28,12 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Trying to create a bullet list
+- bullet  
+- **bold**  
+- *italics*
+
+##Adding Links
+[R Markdown](https://rmarkdown.rstudio.com)
+[Github Harshit Jain](https://github.com/harshitjain0103)
